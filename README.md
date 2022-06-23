@@ -37,7 +37,7 @@
 - [Employee Management System GUI Base](#p-2)
 - [Inventory Management System Console Base](#p-3)
 - [Calculator GUI Base](#p-4)
-- [Employee Management System Console Base](#p-5)
+- [C Code Runner](#p-5)
 
 <a name="p-1"><a>
 ## 1. Employee Management System Console Base
