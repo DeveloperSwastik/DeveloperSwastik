@@ -2,7 +2,7 @@
 
 # About Me
 - 👋 Hi, I’m Swastik Sharma
-- 👀 I’m interested in software development 👩‍💻
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning programming and development 
 
 ## ✨ I’m comfortable with:
