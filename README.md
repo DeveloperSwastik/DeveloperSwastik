@@ -30,7 +30,7 @@
 ![MOST USED LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperSwastik)
 
 # My Projects
-> _See my current working project: [C Code Runner](https://github.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/wiki)_
+
 ## Table of Content
 
 - [Employee Management System Console Base](#p-1)
