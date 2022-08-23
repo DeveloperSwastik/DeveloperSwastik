@@ -1,4 +1,4 @@
-<!-- ![Profile Image](https://raw.githubusercontent.com/DeveloperSwastik/DeveloperSwastik/main/Gif/Developer%20Swastik.gif) -->
+![Profile Image](https://raw.githubusercontent.com/DeveloperSwastik/DeveloperSwastik/main/Images/Developer%20Swastik.gif)
 
 # About Me
 - 👋 Hi, I’m Swastik Sharma
@@ -9,7 +9,7 @@
 
 ### 👩‍💻 Languages :
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-<!-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
+
 ### ⚡ Databases :
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MICROSOFT SQL SERVER](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
