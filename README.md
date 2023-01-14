@@ -1,4 +1,6 @@
-![Profile Image](https://raw.githubusercontent.com/DeveloperSwastik/DeveloperSwastik/main/Images/Developer%20Swastik.gif)
+<p align="center">
+  <img alt="Logo Image" src="https://drive.google.com/uc?export=view&id=1j2FHl1klQpudktWe2jAA5VO6esxdmkqF">
+</p>
 
 # About Me
 - 👋 Hi, I’m Swastik Sharma
@@ -101,7 +103,7 @@ _Visit: [Readme Link](https://github.com/DeveloperSwastik/Calculator/blob/main/R
 ## 5. C Code Runner
   
 <p align="center">
-  <img alt="Logo Image" src="https://raw.githubusercontent.com/DeveloperSwastik/C-Code-Runner-Command-Line-Tool/main/Images/C%20Code%20Runner%20Logo.png">
+  <img alt="Logo Image" src="https://drive.google.com/uc?export=view&id=1zgWmvzfmzoJsn0x1QjTtX2vr6VnZnK_Q">
 </p>
 
 ### About Project:
@@ -121,7 +123,7 @@ _Visit: [Readme Link](https://github.com/DeveloperSwastik/C-Code-Runner-Command-
 ## 6. SQL Lab Database Management System
 
 <p align="center">
-  <img alt="Logo Image" src="https://raw.githubusercontent.com/DeveloperSwastik/SQL-Lab-Database-Management-System/main/Images/SQL%20Lab%20Logo.png">
+  <img alt="Logo Image" src="https://drive.google.com/uc?export=view&id=1_PSM3xvrJbEtejLXNntU6rjZfc6N90oL">
 </p>
 
 ### About Project:
